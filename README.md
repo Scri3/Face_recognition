@@ -31,7 +31,7 @@ Face recognition technology allows computers to recognize and verify human faces
 
 <br>  
 
-Visit [Face Recognition Project/Code_Documentation.md](Code_Documentation.md) for complete documentation on the classes and functions used.
+Visit [Code_Documentation.md](Code_Documentation.md) for complete documentation on the classes and functions used.
 
 <br>
 
